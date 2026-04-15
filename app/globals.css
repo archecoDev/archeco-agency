@@ -1,0 +1,9 @@
+/*
+  globals.css — Next.js overrides uniquement
+  archeco.css est le design system principal, chargé via <link> dans layout.tsx.
+*/
+
+/* Ensure Next.js image component works correctly */
+[data-nextjs-router-prefetch-result] img {
+  display: block;
+}
