@@ -1862,13 +1862,12 @@
         "Content",
         "AI"
       ],
-      "img": "/media/lab/arc-channel.webp",
+      "img": "/media/lab/Arc-channel.webp",
       "date": "2024-03-20",
-      "external": "https://www.youtube.com/@ARCchannel-x8",
+      "external": true,
       "type": "lab",
-      "cover": "/media/lab/arc-channel.webp",
-      "slug": "arc-channel",
-      "content": "\n<section class=\"pd-next rv\">\n  <a class=\"pd-next-link\" href=\"/lab/myugge\">\n    <div class=\"pd-next-img\"><img src=\"/media/placeholder.jpg\" alt=\"MYUGGE\" loading=\"lazy\"></div>\n    <div class=\"pd-next-info\">\n      <span class=\"pd-next-label\">Next Lab</span>\n      <div class=\"pd-next-title\">MYUGGE</div>\n    </div>\n  </a>\n</section>"
+      "cover": "/media/lab/Arc-channel.webp",
+      "slug": "https://www.youtube.com/@ARCchannel-x8"
     },
     "myugge": {
       "title": "MYUGGE",
@@ -1879,10 +1878,10 @@
       ],
       "img": "/media/lab/myugge.webp",
       "date": "2024-03-15",
+      "external": true,
       "type": "lab",
       "cover": "/media/lab/myugge.webp",
-      "slug": "myugge",
-      "content": "\n<section class=\"pd-next rv\">\n  <a class=\"pd-next-link\" href=\"/lab/BSP\">\n    <div class=\"pd-next-img\"><img src=\"/media/projects/bsp-corporate-it-platform/bsp-corporate-it-platform-cover.png\" alt=\"Development of cloud service (SaaS) that realizes configuration manageme...\" loading=\"lazy\"></div>\n    <div class=\"pd-next-info\">\n      <span class=\"pd-next-label\">Next Lab</span>\n      <div class=\"pd-next-title\">Development of cloud service (SaaS) that realizes configuration manageme...</div>\n    </div>\n  </a>\n</section>"
+      "slug": "https://www.instagram.com/myugge/"
     },
     "ohbag": {
       "title": "Ohbag",
